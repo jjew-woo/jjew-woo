@@ -32,8 +32,13 @@
 
 <br>
 
+## 프로젝트✨
+- [포트폴리오](https://drive.google.com/file/d/1x3wycV-KeqfkSLvrNcOtJ1YvHdWteT3E/view?usp=drive_link)
+
+<br>
+
 ## 공부 기록📚
 - [Notion](https://www.notion.so/jjew/6c48c178b2004ca386c9f3aa714baa75)
-- [포트폴리오](https://drive.google.com/file/d/1x3wycV-KeqfkSLvrNcOtJ1YvHdWteT3E/view?usp=drive_link)
+
   
 </div>
