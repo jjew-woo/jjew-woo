@@ -33,7 +33,7 @@
 <br>
 
 ## 프로젝트✨
-- [포트폴리오](https://drive.google.com/file/d/1x3wycV-KeqfkSLvrNcOtJ1YvHdWteT3E/view?usp=drive_link)
+- [포트폴리오](https://drive.google.com/file/d/1cWNRoxboUioJYlyW3y10OiYfKEQXyCwq/view?usp=sharing)
 
 <br>
 
