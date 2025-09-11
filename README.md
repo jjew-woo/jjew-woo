@@ -16,7 +16,7 @@
 
 <div>
 
-## Tech💻
+## 💻 Tech
 #### 📍 Language
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
@@ -32,12 +32,59 @@
 
 <br>
 
-## 프로젝트✨
+## 🚀 Projects   
+
+### 🏋️‍♂️ 잇근 (Itgun) - 게이미피케이션 기반 헬스 기록 서비스
+**기간:** 2025.08 (3주)  
+**역할:** 풀스택 & 기획/디자인 (팀・5인)   
+
+
+**성과**  
+- ⚡ 편리하고 간결한 UX로 긍정적인 평가를 받음 
+- 🎨 운동 기록 기반 **캐릭터 SVG 파츠 동적 조립 및 애니메이션** 구현  
+- 📅 **캘린더형 운동 기록 조회 UI** 설계/개발  
+- 📚 Storybook 활용 **디자인 시스템 도입 **  
+- 🔄 GitHub Actions CI/CD 구축
+
+**Links**  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-24292e?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/FRONT-END-BOOTCAMP-PLUS-5/itGun) 
+[![Demo Site](https://img.shields.io/badge/Site-24292e?logo=vercel&logoColor=white&style=for-the-badge)](https://itgun.me/)
+[![Demo Video](https://img.shields.io/badge/Video-24292e?logo=youtube&logoColor=red&style=for-the-badge)](https://drive.google.com/file/d/1FDlCufM7h4OtqnkUffcynyZ8jM43N9I_/view?usp=sharing)
+##
+
+### 🎉 with festival - 대학 축제 정보 공유 플랫폼  
+**기간:** 2023.05 ~ 2024.01  
+**역할:** 프론트엔드 개발 (팀・5인) 
+
+**성과**  
+- 🔍 **검색, 채팅 등 핵심 기능 구현 & 반응형 UI** 적용  
+- 🧩 **공통 컴포넌트 설계** → 재사용성 향상
+- 🛠️ **무한스크롤/캐싱 리팩토링으로 성능 최적화**
+- 🚀 서비스 개선으로 **방문자 수 50% 증가**
+
+**Links**  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-24292e?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/jjew-woo/withfestival-front) 
+[![Demo Site](https://img.shields.io/badge/Site-24292e?logo=vercel&logoColor=fff&style=for-the-badge)](www.withfestival.site)
+[![Demo Video](https://img.shields.io/badge/Notion-24292e?logo=notion&logoColor=fff&style=for-the-badge)](https://www.notion.so/jjew/with-Festival-4e9d1a41112b4f23a5a727be502446d7?source=copy_link)
+##
+
+#### 📂 More Projects  
+이 프로젝트 외에도 다양한 개인/팀 프로젝트를 진행했습니다.  
+👉 자세한 내용은 [포트폴리오](https://drive.google.com/file/d/1uFwhHxjU-5zkf8jK_0IGnaczZeUA76mF/view?usp=sharing)에서 확인할 수 있습니다.
+
+<br>
+
+## 📫 Contact  
+✉️ Email: [jjew0504@gmail.com](mailto:jjew0504@gmail.com)
+
+
+
+<!--
+## 포트폴리오
 - [포트폴리오](https://drive.google.com/file/d/1uFwhHxjU-5zkf8jK_0IGnaczZeUA76mF/view?usp=sharing)
 
 <br>
 
-<!--
 ## 공부 기록📚
 - [Notion](https://www.notion.so/jjew/6c48c178b2004ca386c9f3aa714baa75)
 -->
